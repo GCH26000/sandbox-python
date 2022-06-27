@@ -11,7 +11,7 @@ class Thing:
 
 def stock_management():
     actualUser = intro()
-    print("Hello "+ actualUser.name + ", what do you want to do ?");
+    print("Hello "+ actualUser.name + ", what do you want to do ?")
     
 
 
